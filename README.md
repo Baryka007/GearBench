@@ -49,7 +49,7 @@ If you notice anything unusual (error messages, crashes, weird scores), please h
 2. Saving it into a `.txt` file  
 3. Submitting it as an attachment in a GitHub issue or comment under the project
 
-This helps us rapidly improve the stability and accuracy of the benchmark.
+This helps me rapidly improve the stability and accuracy of the benchmark.
 
 ℹ️ Note: The console prints the MD5 hash of the `GearBenchEngine.dll` file to verify integrity.  
 This is safe and used for anti-cheat purposes only.
