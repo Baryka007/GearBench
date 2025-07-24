@@ -1,0 +1,6 @@
+GearBench © 2025 Bárány Péter
+
+This software is provided as-is for benchmarking and testing purposes.
+You are not allowed to reverse engineer, modify, distribute or sell any part of this software.
+
+All rights reserved.
