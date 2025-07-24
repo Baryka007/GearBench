@@ -22,9 +22,19 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 2. Unzip and run `GearBench.exe`
 3. Enjoy clean and consistent memory benchmarking
 
+## 🔽 Download
+
+👉 [Download GearBench v0.1.0-alpha (.zip)](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBench-v0.1.0-alpha.zip)
+
+💾 Or get the individual files:
+- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBench.exe)
+- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBenchEngine.dll)
+
+
 ## License
 
 MIT – do what you want, but don’t pretend you made it 😉
+
 
 
 ## 🧪 Alpha Debug Notes
