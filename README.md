@@ -24,7 +24,7 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 
 ## 🔽 Download
 
-👉 [Download GearBench v0.1.0-alpha (.zip)](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBench-v0.1.0-alpha.zip)
+👉 [Download GearBench v0.1.0-alpha.zip)](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBench.v0.1.0-alpha.zip)
 
 💾 Or get the individual files:
 - [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v0.1.0-alpha/GearBench.exe)
