@@ -14,7 +14,7 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 
 ## Screenshots
 
-*(Add some juicy UI screenshots here!)*
+<img width="1921" height="1080" alt="GearBench" src="https://github.com/user-attachments/assets/46394884-adfc-4da1-b09b-a96718aacf4e" />
 
 ## Getting Started
 
