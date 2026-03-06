@@ -10,7 +10,6 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 - 🔒 Secure upload to Supabase (only from verified binaries)
 - 💾 Lightweight: 1 EXE + 1 DLL — no installer, no bullshit
 - 🔍 Auto-detects CPU, DRAM type, Gear Mode and more
-- 🧪 Future support: TM5-like stability tests and SPD reader
 
 ## Screenshots
 
@@ -24,11 +23,11 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 
 ## 🔽 Download
 
-👉 [Download GearBench v0.1.2-alpha.zip)](https://github.com/Baryka007/GearBench/releases/download/v0.1.2-alpha/GearBench.v0.1.2-alpha.zip)
+👉 [Download GearBench v0.1.2-alpha.zip)](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBench.v0.1.2-alpha.zip)
 
 💾 Or get the individual files:
-- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v0.1.2-alpha/GearBench.exe)
-- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v0.1.2-alpha/GearBenchEngine.dll)
+- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBench.exe)
+- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBenchEngine.dll)
 
 
 ## License
