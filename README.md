@@ -20,12 +20,12 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 
 ## 🔽 Download
 
-👉 [Download GearBench v1.0-beta.zip](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBench.zip)
+👉 [Download GearBench v1.0-beta.zip](https://github.com/Baryka007/GearBench/releases/download/v1.4-beta/GearBench.zip)
 
 💾 Or get the individual files:
-- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBench.exe)
-- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBenchEngine.dll)
-- [GearBenchStability.dll](https://github.com/Baryka007/GearBench/releases/download/v1.0-beta/GearBenchStability.dll)
+- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v1.4-beta/GearBench.exe)
+- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v1.4-beta/GearBenchEngine.dll)
+- [GearBenchStability.dll](https://github.com/Baryka007/GearBench/releases/download/v1.4-beta/GearBenchStability.dll)
 
 
 ## License
@@ -34,7 +34,7 @@ MIT – do what you want, but don’t pretend you made it 😉
 
 
 
-## 🧪 Alpha Debug Notes
+## 🧪 Beta Debug Notes
 
 GearBench is currently in **beta release**, and includes a visible console window during execution. This is intentional and allows for easier debugging and community feedback.
 
