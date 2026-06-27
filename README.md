@@ -20,12 +20,12 @@ GearBench provides detailed memory bandwidth and latency results, featuring secu
 
 ## 🔽 Download
 
-👉 [Download GearBench v1.5-beta.zip](https://github.com/Baryka007/GearBench/releases/download/v1.5-beta/GearBench.zip)
+👉 [Download GearBench v1.6-beta Windows Installer](https://github.com/Baryka007/GearBench/releases/download/v1.6-beta/GearBench-v1.6-beta-Setup.exe)
 
 💾 Or get the individual files:
-- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v1.5-beta/GearBench.exe)
-- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v1.5-beta/GearBenchEngine.dll)
-- [GearBenchStability.dll](https://github.com/Baryka007/GearBench/releases/download/v1.5-beta/GearBenchStability.dll)
+- [GearBench.exe](https://github.com/Baryka007/GearBench/releases/download/v1.6-beta/GearBench.exe)
+- [GearBenchEngine.dll](https://github.com/Baryka007/GearBench/releases/download/v1.6-beta/GearBenchEngine.dll)
+- [GearBenchStability.dll](https://github.com/Baryka007/GearBench/releases/download/v1.6-beta/GearBenchStability.dll)
 
 
 ## License
